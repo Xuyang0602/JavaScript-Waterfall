@@ -1,1 +1,1 @@
-# JavaScript-Water-Fall
+# JavaScript-Waterfall
